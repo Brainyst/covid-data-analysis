@@ -18,17 +18,6 @@ The analysis is organized into the following sections:
 6. **Feature Engineering**: Calculating the `total_deaths_to_total_cases` ratio.
 7. **Data Visualization**: Visualizations of GDP per capita distribution, total cases vs. GDP, and total cases by continent.
 
-## Installation
-
-1. **Clone the repository**:
-   
-   git clone https://github.com/Brainyst/covid-data-analysis.git
-   cd covid-data-analysis
-
-2. **Install the required libraries**:
-
-     pip install -r requirements.txt
-
 ## Requirements
 The project requires Python 3.x and the following Python libraries (listed in requirements.txt):
 
